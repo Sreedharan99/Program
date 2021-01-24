@@ -11,7 +11,6 @@ namespace Basic_programs_2
                 Console.Write(num);
             }
         }
-
         static void withspace(int num)
         {
             /*int rem, count;
