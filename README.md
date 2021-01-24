@@ -1,5 +1,4 @@
 using System;
-
 namespace Basic_programs_2
 {
     class Program
